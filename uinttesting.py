@@ -1,4 +1,3 @@
-# test_fizzbuzz.py
 import unittest
 from fizzbuzz import fizzbuzz  # Importa la función fizzbuzz desde el archivo descargado
 
