@@ -1,5 +1,5 @@
 import unittest
-from fizzbuzz import fizzbuzz  # Importa la función fizzbuzz desde el archivo descargado
+from fizzbuzz import fizzbuzz 
 
 class TestFizzBuzz(unittest.TestCase):
     
